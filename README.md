@@ -3,7 +3,7 @@ PULI SHREYA<br>	JAVA DEVELOPER (FRESHER)	<br>pulishreya134@gmail.com   |   +91 9
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://www.linkedin.com/in/puli-shreya-73798b335/)][![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pulishreya134@gmail.com) 
+[![LinkedIn](...badge image link...)](https://linkedin.com/in/https://www.linkedin.com/in/puli-shreya-73798b335/)[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pulishreya134@gmail.com) 
 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
